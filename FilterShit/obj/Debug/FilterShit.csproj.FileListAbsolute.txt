@@ -1,0 +1,9 @@
+F:\source\repos\FilterShit\FilterShit\bin\Debug\FilterShit.exe.config
+F:\source\repos\FilterShit\FilterShit\bin\Debug\FilterShit.exe
+F:\source\repos\FilterShit\FilterShit\bin\Debug\FilterShit.pdb
+F:\source\repos\FilterShit\FilterShit\obj\Debug\FilterShit.csprojAssemblyReference.cache
+F:\source\repos\FilterShit\FilterShit\obj\Debug\FilterShit.Form1.resources
+F:\source\repos\FilterShit\FilterShit\obj\Debug\FilterShit.Properties.Resources.resources
+F:\source\repos\FilterShit\FilterShit\obj\Debug\FilterShit.csproj.GenerateResource.cache
+F:\source\repos\FilterShit\FilterShit\obj\Debug\FilterShit.exe
+F:\source\repos\FilterShit\FilterShit\obj\Debug\FilterShit.pdb
